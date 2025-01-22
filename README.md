@@ -79,5 +79,3 @@ open up localhost:
 - Meta Llama2
 - Pinecone
 
-# HealthChatbot
-# HealthChatbot
