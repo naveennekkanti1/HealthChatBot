@@ -1,4 +1,4 @@
-OPEN_AI_SECRET=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
+OPEN_AI_SECRET=##
 OPENAI_ORAGANIZATION_ID=org-Nb0xJttdrHY4C3370n7mVVOV
 MONGODB_URL=mongodb+srv://durganaveen:test1234@cluster0.8nibi9x.mongodb.net/chatbot?retryWrites=true&w=majority&appName=Cluster0
 JWT_SECRET=bwlvjbasvbsuveusve7wfgy9w
